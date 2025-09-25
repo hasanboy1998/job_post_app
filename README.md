@@ -1,4 +1,3 @@
-```markdown
 # Job Post App
 
 Flutter-based job posting platform with real-time updates using Supabase.
